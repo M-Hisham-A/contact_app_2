@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Furniture-App-UI-2-Flutter-master",
+            "cwd": "Users/karupaiyachu/Downloads/Furniture-App-UI-2-Flutter-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Furniture-App-UI-2-Flutter-master (profile mode)",
+            "cwd": "Users/karupaiyachu/Downloads/Furniture-App-UI-2-Flutter-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Furniture-App-UI-2-Flutter-master (release mode)",
+            "cwd": "Users/karupaiyachu/Downloads/Furniture-App-UI-2-Flutter-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "One-Point-Verification-master",
+            "cwd": "Users/karupaiyachu/Downloads/One-Point-Verification-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "One-Point-Verification-master (profile mode)",
+            "cwd": "Users/karupaiyachu/Downloads/One-Point-Verification-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "One-Point-Verification-master (release mode)",
+            "cwd": "Users/karupaiyachu/Downloads/One-Point-Verification-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter_tracker-master",
+            "cwd": "Users/karupaiyachu/Downloads/flutter_tracker-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_tracker-master (profile mode)",
+            "cwd": "Users/karupaiyachu/Downloads/flutter_tracker-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_tracker-master (release mode)",
+            "cwd": "Users/karupaiyachu/Downloads/flutter_tracker-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutterui-curveddesigns-master",
+            "cwd": "Users/karupaiyachu/Downloads/flutterui-curveddesigns-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutterui-curveddesigns-master (profile mode)",
+            "cwd": "Users/karupaiyachu/Downloads/flutterui-curveddesigns-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutterui-curveddesigns-master (release mode)",
+            "cwd": "Users/karupaiyachu/Downloads/flutterui-curveddesigns-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
